@@ -1,3 +1,3 @@
-console.log("Conflict resolved");
+console.log("log after merge");
 
 
